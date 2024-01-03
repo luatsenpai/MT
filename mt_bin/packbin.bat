@@ -1,0 +1,1 @@
+StrTabGen.exe out binmodi
